@@ -1,0 +1,3 @@
+function blockChain(data,prev){
+
+};
